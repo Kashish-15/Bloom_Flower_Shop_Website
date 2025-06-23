@@ -27,12 +27,13 @@
 
 ## 📸 Screenshots
 
-> Home Page ![Screenshot 2025-06-23 112003](https://github.com/user-attachments/assets/4251f4dc-12f6-4ff0-aa44-c574da2f4d58)
+> Home Page ![Screenshot 2025-06-23 112003](https://github.com/user-attachments/assets/cdd4648a-d2d3-4b3f-9b89-f98c139cc4fa) 
 
-> Product Page ![Screenshot 2025-06-23 112028](https://github.com/user-attachments/assets/84641cdc-a0f7-49a9-843d-ec1a2d940c6e)
 
->  Quiz page ![Screenshot 2025-06-23 112037](https://github.com/user-attachments/assets/3ae39559-f0de-46fb-b167-9200dd814139)
+> Product Page ![Screenshot 2025-06-23 112028](https://github.com/user-attachments/assets/459d6b63-cc00-4b44-ae4a-24793e545fea)
 
+
+>  Quiz page ![Screenshot 2025-06-23 111637](https://github.com/user-attachments/assets/a647c85a-719a-42be-b59e-73eef1e47035)
 
 
 ---
