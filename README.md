@@ -33,7 +33,8 @@
 > Product Page ![Screenshot 2025-06-23 112028](https://github.com/user-attachments/assets/459d6b63-cc00-4b44-ae4a-24793e545fea)
 
 
->  Quiz page ![Screenshot 2025-06-23 111637](https://github.com/user-attachments/assets/a647c85a-719a-42be-b59e-73eef1e47035)
+>  Quiz page ![Screenshot 2025-06-23 112037](https://github.com/user-attachments/assets/58ce4033-3d5f-45a3-9133-0dd7c78dd524)
+
 
 
 ---
